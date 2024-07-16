@@ -4,7 +4,7 @@ Challenge de Marco Antonio Servín Jiménez.
 # Descripción:
 Este proyecto es un Foro sobre distintas materias tales como CALCULO, DESARROLLO, GESTION, DATABASES, y MATEMATICA. En la cual el usario puede exponer diferentes temas y/o dudas relacionados con dichas materias. Intenté experimentar con nuevas versiones de JDK, si hay algun error, estaré actualizando en caso de ser necesario. :)
 
-# Sistema:
+# Sistema
 
 El usuario podrá crear los temas con su correspondiente descripción ya sea una duda, comentario, etc.
 Toda vez creados los temas estos podrán ser actualizados con los correspondientes comentarios.
