@@ -14,23 +14,41 @@ El sistema cuenta con un sistema de seguridad de Autenticación para los usuario
 # Tecnologías:
 
   1.- Intellij IDEA ver. 2024.1.1 IDE
-  2.- JDK 
+  
+  2.- JDK
+  
   3.- Servidor Xampp Apache Apache
+  
   4.- BD: MySQL
+  
   5.- Spring Boot Spring
+  
   6.- Spring Security
+  
   7.- Insomnia Insomnia
+  
   8.- Swagger Swagger
+  
   9.- Json Web Token 
+  
   
 # Instrucciones:
 
   1.- Clona el repositorio desde GitHub.
+  
   2.- Asegurate que el proyecto este en alguna ubicación en tu equipo local.
+  
   3.- Abre el proyecto desde tu IDE Intellij IDEA o el IDE de tu preferencia.
+  
   4.- Abre la aplicación y sigue las instrucciones en pantalla.
+  
   5.- Deberás instalar el servidor XAMPP.
+  
   6.- Crear la base de datos en MySql desde phpMyAdmin de XAMPP.
+  
   7.- Veriricar y en su caso agregar las dependencias de MySql y Web en el archivo pom.xml.
+  
   8.- Asegurate de instalar las dependencias adiconales de Spring Security, Auth0, Flywaydb y Lombok.
+  
   9.- Para el testeo de la API se puede utlizar la interfaz grafica de Swagger así como la API de Insomnia.
+  
